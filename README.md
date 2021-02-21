@@ -27,4 +27,4 @@ Note: Phone number should be with country code("+" not required)
 ![](https://github.com/Dhiraj47/WhatsApp_Bot/blob/main/files/csv.PNG)
 
 ### Output (For sending messages from csv file:
-![](https://github.com/Dhiraj47/WhatsApp_Bot/blob/main/files/output.PNG)
+![](https://github.com/Dhiraj47/WhatsApp_Bot/blob/main/files/program_output.PNG)
