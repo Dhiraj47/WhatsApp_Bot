@@ -23,3 +23,8 @@ contact;msg;type;latitude;longitude;location
 
 Note: Phone number should be with country code("+" not required)
       e.g. 919876543210
+
+![](https://github.com/Dhiraj47/WhatsApp_Bot/blob/main/files/csv.PNG)
+
+### Output (For sending messages from csv file:
+![](https://github.com/Dhiraj47/WhatsApp_Bot/blob/main/files/output.PNG)
