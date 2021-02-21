@@ -17,8 +17,11 @@ This program can not only send whatsapp messages to number, but also can send ge
 CSV Format should be like (delimiter should be semicolon(;)):
 ---
 contact;msg;type;latitude;longitude;location
+
 9170708xxxxx;Hi there;text;;;
+
 9180151xxxxx;This is the place;loc;51.51916;-0.139214;
+
 9190245xxxxx;See this file;file;;;https://www.libreoffice.org/themes/libreofficenew/img/logo.png
 
 Note: Phone number should be with country code("+" not required)
